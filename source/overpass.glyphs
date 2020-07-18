@@ -1,5 +1,8 @@
 {
-.appVersion = "945";
+.appVersion = "1342";
+DisplayStrings = (
+i
+);
 classes = (
 {
 automatic = 1;
@@ -612,6 +615,7 @@ alignmentZones = (
 );
 ascender = 750;
 capHeight = 700;
+custom = Thin;
 customParameters = (
 {
 name = "Master Name";
@@ -673,6 +677,7 @@ horizontalStems = (
 33,
 36
 );
+iconName = Light;
 id = "3BB16070-9AE0-46D6-9B05-19A363C2D547";
 userData = {
 GSCornerRadius = 20;
@@ -684,7 +689,6 @@ verticalStems = (
 36,
 39
 );
-weight = Light;
 weightValue = 200;
 widthValue = 5;
 xHeight = 511;
@@ -766,7 +770,7 @@ userData = {
 GSCornerRadius = 10;
 GSOffsetHorizontal = -33;
 GSOffsetProportional = 1;
-GSOffsetVertical = -13.3300;
+GSOffsetVertical = -13.33;
 };
 verticalStems = (
 70,
@@ -965,6 +969,7 @@ alignmentZones = (
 );
 ascender = 750;
 capHeight = 700;
+custom = Heavy;
 customParameters = (
 {
 name = "Master Name";
@@ -1027,12 +1032,12 @@ horizontalStems = (
 149,
 151
 );
+iconName = Bold;
 id = "1D708A55-1947-4475-A0A3-21124B6DD42B";
 verticalStems = (
 150,
 155
 );
-weight = Bold;
 weightValue = 900;
 widthValue = 5;
 xHeight = 511;
@@ -24454,7 +24459,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2016-11-17 18:20:45 +0000";
+lastChange = "2020-07-18 23:25:15 +0000";
 layers = (
 {
 anchors = (
@@ -24468,10 +24473,12 @@ paths = (
 {
 closed = 1;
 nodes = (
+"76 0 LINE",
 "180 0 LINE",
 "180 511 LINE",
-"76 511 LINE",
-"76 0 LINE"
+"12 511 LINE",
+"12 421 LINE",
+"76 421 LINE"
 );
 },
 {
@@ -24506,10 +24513,12 @@ paths = (
 {
 closed = 1;
 nodes = (
+"91 0 LINE",
 "161 0 LINE",
 "161 511 LINE",
-"91 511 LINE",
-"91 0 LINE"
+"30 511 LINE",
+"30 448 LINE",
+"91 448 LINE"
 );
 },
 {
@@ -24544,10 +24553,12 @@ paths = (
 {
 closed = 1;
 nodes = (
+"76 0 LINE",
 "206 0 LINE",
 "206 511 LINE",
-"76 511 LINE",
-"76 0 LINE"
+"12 511 LINE",
+"12 397 LINE",
+"76 397 LINE"
 );
 },
 {
@@ -24582,10 +24593,12 @@ paths = (
 {
 closed = 1;
 nodes = (
+"106 0 LINE",
 "142 0 LINE",
 "142 511 LINE",
-"106 511 LINE",
-"106 0 LINE"
+"43 511 LINE",
+"43 478 LINE",
+"106 478 LINE"
 );
 },
 {
@@ -24620,10 +24633,12 @@ paths = (
 {
 closed = 1;
 nodes = (
+"76 0 LINE",
 "226 0 LINE",
 "226 511 LINE",
-"76 511 LINE",
-"76 0 LINE"
+"12 511 LINE",
+"12 379 LINE",
+"76 379 LINE"
 );
 },
 {
@@ -133456,7 +133471,7 @@ value = Overpass;
 },
 {
 name = weightClass;
-value = "100";
+value = 100;
 },
 {
 name = typoAscender;
@@ -133526,7 +133541,7 @@ value = Overpass;
 },
 {
 name = weightClass;
-value = "200";
+value = 200;
 },
 {
 name = typoAscender;
@@ -133597,7 +133612,7 @@ value = Overpass;
 },
 {
 name = weightClass;
-value = "300";
+value = 300;
 },
 {
 name = typoAscender;
@@ -133667,7 +133682,7 @@ value = Overpass;
 },
 {
 name = weightClass;
-value = "400";
+value = 400;
 },
 {
 name = typoAscender;
@@ -133708,8 +133723,8 @@ value = 0;
 );
 interpolationWeight = 400;
 instanceInterpolations = {
-"DE4AFDBE-F375-44ED-A5DB-4773839D6964" = 0.5;
 "02CCC12B-AAA5-4DEC-99A9-D81829579BCD" = 0.5;
+"DE4AFDBE-F375-44ED-A5DB-4773839D6964" = 0.5;
 };
 name = Regular;
 },
@@ -133737,7 +133752,7 @@ value = Overpass;
 },
 {
 name = weightClass;
-value = "600";
+value = 600;
 },
 {
 name = typoAscender;
@@ -133809,7 +133824,7 @@ value = Overpass;
 },
 {
 name = weightClass;
-value = "700";
+value = 700;
 },
 {
 name = typoAscender;
@@ -133850,8 +133865,8 @@ value = 0;
 );
 interpolationWeight = 600;
 instanceInterpolations = {
-"1ED176E8-AB71-4F43-9CA1-B943ACA5B6F8" = 0.5;
 "02CCC12B-AAA5-4DEC-99A9-D81829579BCD" = 0.5;
+"1ED176E8-AB71-4F43-9CA1-B943ACA5B6F8" = 0.5;
 };
 isBold = 1;
 linkStyle = Regular;
@@ -133882,7 +133897,7 @@ value = Overpass;
 },
 {
 name = weightClass;
-value = "800";
+value = 800;
 },
 {
 name = typoAscender;
@@ -133952,7 +133967,7 @@ value = Overpass;
 },
 {
 name = weightClass;
-value = "900";
+value = 900;
 },
 {
 name = typoAscender;
@@ -133993,8 +134008,8 @@ value = 0;
 );
 interpolationWeight = 850;
 instanceInterpolations = {
-"1ED176E8-AB71-4F43-9CA1-B943ACA5B6F8" = 0.25;
 "1D708A55-1947-4475-A0A3-21124B6DD42B" = 0.75;
+"1ED176E8-AB71-4F43-9CA1-B943ACA5B6F8" = 0.25;
 };
 name = Heavy;
 weightClass = Heavy;
