@@ -134045,7 +134045,7 @@ value = Heavy;
 },
 {
 name = fileName;
-value = "overpass-heavy";
+value = "overpass-edubites-heavy";
 },
 {
 name = preferredFamilyName;
@@ -134092,10 +134092,10 @@ name = "Use Typo Metrics";
 value = 0;
 }
 );
-interpolationWeight = 850;
+interpolationWeight = 800;
 instanceInterpolations = {
-"1D708A55-1947-4475-A0A3-21124B6DD42B" = 0.75;
-"1ED176E8-AB71-4F43-9CA1-B943ACA5B6F8" = 0.25;
+"1D708A55-1947-4475-A0A3-21124B6DD42B" = 0.5;
+"1ED176E8-AB71-4F43-9CA1-B943ACA5B6F8" = 0.5;
 };
 name = Heavy;
 weightClass = Heavy;

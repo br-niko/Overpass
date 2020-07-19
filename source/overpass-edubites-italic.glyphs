@@ -1,9 +1,8 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-"ijtlgllustrajudarilliatorajuda/space ijudajirayaILLUSTRATOR/space GIgigI",
-i,
-j
+j,
+a
 );
 classes = (
 {
@@ -42568,7 +42567,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2020-07-19 11:26:06 +0000";
+lastChange = "2020-07-19 14:03:16 +0000";
 layers = (
 {
 background = {
@@ -46942,7 +46941,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2016-11-19 05:50:03 +0000";
+lastChange = "2020-07-19 14:03:06 +0000";
 layers = (
 {
 anchors = (
