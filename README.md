@@ -1,11 +1,9 @@
-# Overpass
-**Overpass** — _an open source web font family_
+# edbuBites
+**EduBites** is a font family based on **Overpass** — _an open source web font family_
 
-+Sponsored by [Red Hat](http://www.redhat.com), Inspired by [Highway Gothic](http://en.wikipedia.org/wiki/Highway_Gothic), Designed by [Delve Fonts](http://www.delvefonts.com)
+The original typeface was Sponsored by [Red Hat](http://www.redhat.com), Inspired by [Highway Gothic](http://en.wikipedia.org/wiki/Highway_Gothic), Designed by [Delve Fonts](http://www.delvefonts.com)
 
-        
-
-For more information, please visit  [overpassfont.org](http://overpassfont.org  "overpassfont.org")
+For more information about the original **Overpass**, please visit  [overpassfont.org](http://overpassfont.org  "overpassfont.org")
 
 
 
