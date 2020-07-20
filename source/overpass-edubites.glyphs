@@ -1,9 +1,5 @@
 {
 .appVersion = "1342";
-DisplayStrings = (
-i,
-PalalilllulIllustrator
-);
 classes = (
 {
 automatic = 1;
@@ -15,7 +11,7 @@ copyright = "Copyright © 2016 by Red Hat, Inc. All rights reserved.";
 customParameters = (
 {
 name = description;
-value = "Copyright (c) 2011-2016 by Red Hat, Inc. All rights reserved.";
+value = "eduBites Sans is a custom adapted font for eduBites plataform, based on the Overpass font-family. \012\012Overpass is an open source webfont family inspired by Highway Gothic. Sponsored by Red Hat and created by Delve Fonts.\012\012Overpass is the typeface used by Red Hat. Free and open source, released as both OFL+LGPL. The origin-artwork that inspired Overpass (Highway Gothic) is public domain. Used globally in road signage, Highway Gothic embodies design for the public good. Traffic control systems demonstrate that open standards and open communication help complex communities work better together. This digital interpretation of Highway Gothic includes a wide array of variations so that web designers have the flexibility they expect for modern web typography.\012Today’s enterprise brands all have distinct typographic expressions. In the software arena, Overpass is strongly aligned to Red Hat brand.\012\012\012Copyright (c) 2011-2016 by Red Hat, Inc. All rights reserved.";
 },
 {
 name = vendorID;
@@ -525,10 +521,6 @@ name = trademark;
 value = "Overpass is a trademark of Red Hat, Inc.";
 },
 {
-name = description;
-value = "Overpass is an open source webfont family inspired by Highway Gothic. Sponsored by Red Hat and created by Delve Fonts.\012\012Overpass is the typeface used by Red Hat. Free and open source, released as both OFL+LGPL. The origin-artwork that inspired Overpass (Highway Gothic) is public domain. Used globally in road signage, Highway Gothic embodies design for the public good. Traffic control systems demonstrate that open standards and open communication help complex communities work better together. This digital interpretation of Highway Gothic includes a wide array of variations so that web designers have the flexibility they expect for modern web typography.\012Today’s enterprise brands all have distinct typographic expressions. In the software arena, Overpass is strongly aligned to Red Hat brand.";
-},
-{
 name = sampleText;
 value = "If I have seen further, it is by standing on the shoulders of giants. — Isaac Newton";
 },
@@ -545,11 +537,11 @@ name = versionString;
 value = "Version 3.000;DELV;Overpass";
 }
 );
-date = "2016-11-16 16:40:10 +0000";
-designer = "Delve Withrington, Thomas Jockin";
-designerURL = "http://www.delvefonts.com";
+date = "2020-07-20 11:49:38 +0000";
+designer = "Delve Withrington, Thomas Jockin, adapations by Nikolas Lorencini";
+designerURL = "http://www.niko.uno";
 disablesNiceNames = 1;
-familyName = "Overpass eduBites";
+familyName = "eduBites Sans";
 featurePrefixes = (
 {
 automatic = 1;
@@ -594,8 +586,7 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 name = ordn;
 },
 {
-automatic = 1;
-code = "sub f i by fi;\012sub f l by fl;\012";
+code = "sub f i by fi;\012sub f l by fl;\012sub e d u B i t e s by eduBites;\012";
 name = liga;
 },
 {
@@ -139593,8 +139584,8 @@ zero = {
 };
 };
 };
-manufacturer = "Delve Fonts";
-manufacturerURL = "http://www.redhat.com";
+manufacturer = niko.uno;
+manufacturerURL = "http://www.niko.uno";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
@@ -139602,6 +139593,6 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 };
-versionMajor = 3;
-versionMinor = 2;
+versionMajor = 4;
+versionMinor = 0;
 }
