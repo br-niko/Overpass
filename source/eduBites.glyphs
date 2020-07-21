@@ -15,7 +15,7 @@ value = "eduBites Sans is a custom adapted font for eduBites plataform, based on
 },
 {
 name = vendorID;
-value = DELV;
+value = NIKO;
 },
 {
 name = glyphOrder;
@@ -534,7 +534,7 @@ value = "## License\012\012Copyright 2016 Red Hat, Inc.,\012\012This Font Softwa
 },
 {
 name = versionString;
-value = "Version 3.000;DELV;Overpass";
+value = "Version 4.000;NIKO;eduBites";
 }
 );
 date = "2020-07-20 11:49:38 +0000";
