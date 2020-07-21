@@ -586,7 +586,7 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 name = ordn;
 },
 {
-code = "sub f i by fi;\012sub f l by fl;\012sub e d u B i t e s by eduBites;\012";
+code = "sub f i by fi;\012sub f l by fl;\012";
 name = liga;
 },
 {
@@ -133528,11 +133528,11 @@ instances = (
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Thin";
+value = "eduBites Sans Thin";
 },
 {
 name = preferredSubfamilyName;
@@ -133540,11 +133540,11 @@ value = Thin;
 },
 {
 name = fileName;
-value = "overpass-edubites-thin";
+value = "edubites-sans-edubites-thin";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -133598,11 +133598,11 @@ weightClass = Thin;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites ExtraLight";
+value = "eduBites Sans ExtraLight";
 },
 {
 name = preferredSubfamilyName;
@@ -133610,11 +133610,11 @@ value = ExtraLight;
 },
 {
 name = fileName;
-value = "overpass-edubites-extralight";
+value = "edubites-sans-extralight";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -133669,11 +133669,11 @@ weightClass = ExtraLight;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Light";
+value = "eduBites Sans Light";
 },
 {
 name = preferredSubfamilyName;
@@ -133681,11 +133681,11 @@ value = Light;
 },
 {
 name = fileName;
-value = "overpass-edubites-light";
+value = "edubites-sans-light";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -133739,11 +133739,11 @@ weightClass = Light;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Regular";
+value = "eduBites Sans Regular";
 },
 {
 name = preferredSubfamilyName;
@@ -133751,11 +133751,11 @@ value = Regular;
 },
 {
 name = fileName;
-value = "overpass-edubites-regular";
+value = "edubites-sans-regular";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -133809,11 +133809,11 @@ name = Regular;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites SemiBold";
+value = "eduBites Sans SemiBold";
 },
 {
 name = preferredSubfamilyName;
@@ -133821,11 +133821,11 @@ value = SemiBold;
 },
 {
 name = fileName;
-value = "overpass-edubites-semibold";
+value = "edubites-sans-semibold";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -133881,11 +133881,11 @@ weightClass = SemiBold;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Bold";
+value = "eduBites Sans Bold";
 },
 {
 name = preferredSubfamilyName;
@@ -133893,11 +133893,11 @@ value = Bold;
 },
 {
 name = fileName;
-value = "overpass-edubites-bold";
+value = "edubites-sans-bold";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -133954,11 +133954,11 @@ weightClass = Bold;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites ExtraBold";
+value = "eduBites Sans ExtraBold";
 },
 {
 name = preferredSubfamilyName;
@@ -133966,11 +133966,11 @@ value = ExtraBold;
 },
 {
 name = fileName;
-value = "overpass-edubites-extrabold";
+value = "edubites-sans-extrabold";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -134024,11 +134024,11 @@ weightClass = ExtraBold;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Heavy";
+value = "eduBites Sans Heavy";
 },
 {
 name = preferredSubfamilyName;
@@ -134036,11 +134036,11 @@ value = Heavy;
 },
 {
 name = fileName;
-value = "overpass-edubites-heavy";
+value = "edubites-sans-heavy";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;

@@ -585,7 +585,7 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 name = ordn;
 },
 {
-code = "sub f i by fi;\012sub f l by fl;\012sub e d u B i t e s by eduBites;";
+code = "sub f i by fi;\012sub f l by fl;";
 name = liga;
 },
 {
@@ -174938,11 +174938,11 @@ instances = (
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Thin Italic";
+value = "eduBites Sans Thin Italic";
 },
 {
 name = preferredSubfamilyName;
@@ -174950,11 +174950,11 @@ value = "Thin Italic";
 },
 {
 name = fileName;
-value = "overpass-edubites-thin-italic";
+value = "edubites-sans-thin-italic";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -175010,11 +175010,11 @@ weightClass = Thin;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites ExtraLight Italic";
+value = "eduBites Sans ExtraLight Italic";
 },
 {
 name = preferredSubfamilyName;
@@ -175022,11 +175022,11 @@ value = "ExtraLight Italic";
 },
 {
 name = fileName;
-value = "overpass-edubites-extralight-italic";
+value = "edubites-sans-extralight-italic";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -175083,11 +175083,11 @@ weightClass = ExtraLight;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Light Italic";
+value = "eduBites Sans Light Italic";
 },
 {
 name = preferredSubfamilyName;
@@ -175095,11 +175095,11 @@ value = "Light Italic";
 },
 {
 name = fileName;
-value = "overpass-edubites-light-italic";
+value = "edubites-sans-light-italic";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -175155,11 +175155,11 @@ weightClass = Light;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Italic";
+value = "eduBites Sans Italic";
 },
 {
 name = preferredSubfamilyName;
@@ -175167,11 +175167,11 @@ value = Italic;
 },
 {
 name = fileName;
-value = "overpass-edubites-italic";
+value = "edubites-sans-italic";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -175227,11 +175227,11 @@ name = Italic;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites SemiBold Italic";
+value = "eduBites Sans SemiBold Italic";
 },
 {
 name = preferredSubfamilyName;
@@ -175239,11 +175239,11 @@ value = "SemiBold Italic";
 },
 {
 name = fileName;
-value = "overpass-edubites-semibold-italic";
+value = "edubites-sans-semibold-italic";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -175299,11 +175299,11 @@ weightClass = SemiBold;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Bold Italic";
+value = "eduBites Sans Bold Italic";
 },
 {
 name = preferredSubfamilyName;
@@ -175311,11 +175311,11 @@ value = "Bold Italic";
 },
 {
 name = fileName;
-value = "overpass-edubites-bold-italic";
+value = "edubites-sans-bold-italic";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -175373,11 +175373,11 @@ weightClass = Bold;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites ExtraBold Italic";
+value = "eduBites Sans ExtraBold Italic";
 },
 {
 name = preferredSubfamilyName;
@@ -175385,11 +175385,11 @@ value = "ExtraBold Italic";
 },
 {
 name = fileName;
-value = "overpass-edubites-extrabold-italic";
+value = "edubites-sans-extrabold-italic";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
@@ -175445,11 +175445,11 @@ weightClass = ExtraBold;
 customParameters = (
 {
 name = familyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = compatibleFullName;
-value = "Overpass eduBites Heavy Italic";
+value = "eduBites Sans Heavy Italic";
 },
 {
 name = preferredSubfamilyName;
@@ -175457,11 +175457,11 @@ value = "Heavy Italic";
 },
 {
 name = fileName;
-value = "overpass-edubites-heavy-italic";
+value = "edubites-sans-heavy-italic";
 },
 {
 name = preferredFamilyName;
-value = "Overpass eduBites";
+value = "eduBites Sans";
 },
 {
 name = weightClass;
